@@ -9,3 +9,5 @@ Create the following pages:
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+<hr>
+1 point. The home page crashes when a user is not logged in. I also don't know if a user is logged in because I don't see a difference in the signin version not signed in.
